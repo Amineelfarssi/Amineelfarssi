@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://luminarlabs.ai"><img src="https://img.shields.io/badge/Luminar_Labs-co--founder-111111?style=for-the-badge" /></a>
-  <a href="https://rxnote.ai"><img src="https://img.shields.io/badge/RxNote-AI_medical_scribe-6E40C9?style=for-the-badge" /></a>
+  <a href="https://rxnote.ai"><img src="https://img.shields.io/badge/RxNote-co--founder-6E40C9?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/amine-el-farssi"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
@@ -11,12 +11,12 @@
 
 ### 🚀 What I'm building
 
-**[Luminar Labs](https://luminarlabs.ai): agent discoverability for commerce**
-Search engines got SEO. AI agents need their own layer. Luminar makes online stores discoverable *and transactable* by AI agents: crawling, structuring catalogs, and serving them through MCP.
+**[Luminar Labs](https://luminarlabs.ai): agent discoverability for commerce**<br>
+Search engines got SEO. AI agents need their own layer. Luminar makes online stores discoverable *and transactable* by AI agents: crawling, structuring catalogs, and serving them through MCP.<br>
 `MCP servers` · `crawl orchestration` · `hybrid RAG` · `Shopify / WooCommerce` · `AWS`
 
-**[RxNote](https://rxnote.ai): AI medical scribe**
-Turns hundreds of pages of patient history (handwritten notes, prescriptions, lab reports, scans) into something a doctor can actually use in a consult.
+**[RxNote](https://rxnote.ai): AI medical scribe**<br>
+Turns hundreds of pages of patient history (handwritten notes, prescriptions, lab reports, scans) into something a doctor can actually use in a consult.<br>
 `document intelligence` · `OCR + LLM pipelines` · `long-context retrieval`
 
 **Day job:** AI engineer & architect in banking, shipping agentic systems and GenAI platforms in a regulated environment.
